@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Plus more fonts, Lato and icons"
+  summary: "Plus more icons"
 });
 
 Package.on_use(function (api) {
