@@ -1,5 +1,11 @@
 Package.describe({
-  summary: "Plus more icons"
+  summary: "Plus more icons",
+  // Version number.
+  version: "1.0.0",
+  // Optional.  Default is package directory name.
+  name: "plusmore:plus-more-icons",
+  // Optional github URL to your source repository.
+  git: "https://github.com/PlusMore/plus-more-icons.git",
 });
 
 Package.on_use(function (api){
