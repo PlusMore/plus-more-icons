@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Plus more icons",
   // Version number.
-  version: "1.0.1",
+  version: "1.0.2",
   // Optional.  Default is package directory name.
   name: "plusmore:plus-more-icons",
   // Optional github URL to your source repository.
